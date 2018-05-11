@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "40f17477-148c-4d5e-9b7c-f6ab50ec9e20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "grass_flowers2": {
+      "ver": "1.0.3",
+      "uuid": "8ad71aa3-158c-4939-900a-23205f965461",
+      "rawTextureUuid": "40f17477-148c-4d5e-9b7c-f6ab50ec9e20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

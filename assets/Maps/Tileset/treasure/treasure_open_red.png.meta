@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "75b8fe15-78d5-4613-a957-0706317fefb0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "treasure_open_red": {
+      "ver": "1.0.3",
+      "uuid": "e9557724-4449-4b63-b25c-efba60afdc5f",
+      "rawTextureUuid": "75b8fe15-78d5-4613-a957-0706317fefb0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 3,
+      "trimX": 18,
+      "trimY": 23,
+      "width": 90,
+      "height": 76,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

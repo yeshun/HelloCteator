@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d4f11498-e8e7-4111-be5e-422622f49431",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "checkpoint_animation": {
+      "ver": "1.0.3",
+      "uuid": "9ff0e8e8-9d3e-4cb1-908b-fa7238226540",
+      "rawTextureUuid": "d4f11498-e8e7-4111-be5e-422622f49431",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1536,
+      "height": 128,
+      "rawWidth": 1536,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

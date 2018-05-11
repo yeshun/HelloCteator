@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e06e235a-e4e3-4e9d-a5ee-165e129ae7aa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tree_stump_mushrooms2": {
+      "ver": "1.0.3",
+      "uuid": "cdd04ceb-13b1-49cb-b557-420a8e858b4f",
+      "rawTextureUuid": "e06e235a-e4e3-4e9d-a5ee-165e129ae7aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

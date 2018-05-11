@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "261bb22c-58ae-40d4-a22c-6af9bc789db9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "door_open_hor_03": {
+      "ver": "1.0.3",
+      "uuid": "f2ae337b-dbaa-4dbf-bdac-a38c67ca0bc0",
+      "rawTextureUuid": "261bb22c-58ae-40d4-a22c-6af9bc789db9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -24.5,
+      "trimX": 0,
+      "trimY": 49,
+      "width": 128,
+      "height": 143,
+      "rawWidth": 128,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

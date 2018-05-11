@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "adabd1f9-024b-48b0-8a96-9947b57e7dba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tree_rock_autumn": {
+      "ver": "1.0.3",
+      "uuid": "2e77bb46-f2fa-46c4-9cf7-19bf08ae08fb",
+      "rawTextureUuid": "adabd1f9-024b-48b0-8a96-9947b57e7dba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -23.5,
+      "trimX": 0,
+      "trimY": 47,
+      "width": 128,
+      "height": 145,
+      "rawWidth": 128,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

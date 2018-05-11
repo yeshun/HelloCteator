@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bec32d60-ceb4-4ee6-909e-48c10617c536",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tower2_animation": {
+      "ver": "1.0.3",
+      "uuid": "5a7dd025-8fbd-4a9d-a2f5-56ff694c9ec5",
+      "rawTextureUuid": "bec32d60-ceb4-4ee6-909e-48c10617c536",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 192,
+      "rawWidth": 512,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

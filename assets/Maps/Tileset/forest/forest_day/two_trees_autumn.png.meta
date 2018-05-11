@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "199730a8-c94d-46f3-bbd9-f449264bf332",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "two_trees_autumn": {
+      "ver": "1.0.3",
+      "uuid": "85933eab-a171-4b59-ad5b-7679d9376c0d",
+      "rawTextureUuid": "199730a8-c94d-46f3-bbd9-f449264bf332",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -16,
+      "trimX": 0,
+      "trimY": 32,
+      "width": 128,
+      "height": 160,
+      "rawWidth": 128,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
